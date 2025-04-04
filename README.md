@@ -40,7 +40,7 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
 ## 下载与使用
 
 1. **下载**  
-   - 在 [Releases](https://github.com/YourUserName/ChaosFont/releases) 获取 `.ttf / .otf / .woff` 文件；  
+   - 在 [Releases](https://github.com/YourUserName/ChaosFont/releases) 获取 `.ttf / .otf ` 文件；  
    - 或前往项目的 `builds/` 文件夹查阅对应阶段的字体包。
 
 2. **安装**  
@@ -48,22 +48,7 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
    - **macOS**：双击字体文件 → “安装字体”。  
    - **其他系统**：请参考对应系统的字体安装指南。
 
-3. **网页调用**  
-   使用 CSS `@font-face` 规则引入字体，举例：
-   \`\`\`css
-   @font-face {
-     font-family: 'ChaosFontStage1';
-     src: url('./fonts/ChaosFontStage1.woff') format('woff');
-     font-weight: normal;
-     font-style: normal;
-   }
-
-   body {
-     font-family: 'ChaosFontStage1', sans-serif;
-   }
-   \`\`\`
-
-4. **创意玩法**  
+3. **创意玩法**  
    - 将 9 个阶段的字体混排组合，创造出“渐入佳境”的视觉叙事；  
    - 利用早期阶段的“极度混沌”字形，强化海报或装置艺术的冲击力；  
    - 在后期阶段字体中感受逐渐成型的稳定美感，应用于日常或正式场景。
