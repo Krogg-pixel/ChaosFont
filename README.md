@@ -25,17 +25,8 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
 4. **多场景应用**  
    - 每个阶段的字形都有独特风格，适合海报、视觉艺术、动态排版等场合，用混沌之美激发全新创意。
 
----
+![ChaosFont 示例图](https://raw.githubusercontent.com/Krogg-pixel/ChaosFont/docs/ChaosFont_sample_02.jpg)
 
-## 如何插入图片
-
-如果需要在此 README 中插入示例或预览图，推荐使用如下 Markdown 语法：
-
-\`\`\`md
-![ChaosFont 示例](./docs/chaos-sample.jpg)
-\`\`\`
-
-将 `./docs/chaos-sample.jpg` 替换为你仓库内实际的图片路径，并根据需要添加文字说明。
 
 ---
 
