@@ -1,6 +1,6 @@
-# ChaosFont
+# ChaosFont（混沌字体）
 A Machine Learning–Driven Design Practice for Generating Chinese Characters from Chaos to Order  
-
+机器学习从无序到有序的汉字生成设计实践
 ---
 
 ## 项目概述
