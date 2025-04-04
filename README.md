@@ -30,7 +30,7 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
 如果需要在此 README 中插入示例或预览图，推荐使用如下 Markdown 语法：
 
 \`\`\`md
-![ChaosFont 示例](./docs/chaos-sample.jpg)
+![ChaosFont 示例](./docs/ChaosFont_sample_01.jpg)
 \`\`\`
 
 将 `./docs/chaos-sample.jpg` 替换为你仓库内实际的图片路径，并根据需要添加文字说明。
