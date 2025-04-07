@@ -61,7 +61,7 @@ ChaosFont 通过道家哲学与生成对抗网络（GAN）的碰撞，突出以�
 
 ## 联系与支持
 
-- **项目主页**：[https://github.com/YourUserName/ChaosFont](https://github.com/Krogg-pixel/ChaosFont)  
+- **项目主页**：[https://github.com/Krogg-pixel/ChaosFont](https://github.com/Krogg-pixel/ChaosFont)  
 - **问题反馈**：请在 [Issues](https://github.com/Krogg-pixel/ChaosFont/issues) 提出，或邮件至 qinjialin6666@qq.com
 - **更多资料**：查看 `docs/` 文件夹，获取详细的创作报告与技术细节
 
