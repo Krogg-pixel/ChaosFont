@@ -56,7 +56,7 @@ ChaosFont 通过道家哲学与生成对抗网络（GAN）的碰撞，突出以�
 ## 许可证与贡献
 
 - **License**：本项目采用 [SIL Open Font License (OFL)](https://scripts.sil.org/OFL) 协议开源，请查阅 [LICENSE](./LICENSE) 获取完整条款。  
-- **欢迎贡献**：如果你对 ChaosFont 的创意、技术实现或视觉有进一步想法，欢迎通过 [Issues](https://github.com/YourUserName/ChaosFont/issues) 或 Pull Requests 参与讨论与贡献。
+- **欢迎贡献**：如果你对 ChaosFont 的创意、技术实现或视觉有进一步想法，欢迎通过 [Issues](https://github.com/Krogg-pixel/ChaosFont/issues) 或 Pull Requests 参与讨论与贡献。
 
 
 ## 联系与支持
