@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="OTTO">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      This project is open sourced under the SIL Open Font License (OFL), please refer to LICENSE for complete terms.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Chaos Font 3200
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Chaos Font 3200 Regular W
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Chaos Font 3200 Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 1.00
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Chaos Font 3200-Regular
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Chaos Font
+    </namerecord>
+    <namerecord nameID="0" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      本项目采用 SIL Open Font License (OFL) 协议开源，请查阅 LICENSE 获取完整条款。
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      混沌字体3200
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      常规
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      混沌字体3200 常规
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      混沌字体
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      混沌字体3200
+    </namerecord>
+    <namerecord nameID="17" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      常规
+    </namerecord>
+    <namerecord nameID="18" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      混沌字体3200
+    </namerecord>
+    <!-- windows -->
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      This project is open sourced under the SIL Open Font License (OFL), please refer to LICENSE for complete terms.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Chaos Font 3200 Regular
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Chaos Font 3200 Regular W
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Chaos Font 3200 Regular
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.00
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      ChaosFont3200-Regular
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      This project is open sourced under the SIL Open Font License (OFL), please refer to LICENSE for complete terms.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Chaos Font
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      Chaos Font 3200
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x804">
+      本项目采用 SIL Open Font License (OFL) 协议开源，请查阅 LICENSE 获取完整条款。
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      混沌字体3200 常规
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      常规
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      混沌字体3200 常规
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x804">
+      混沌字体
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x804">
+      混沌字体3200
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x804">
+      常规
+    </namerecord>
+  </name>
+
+</ttFont>
