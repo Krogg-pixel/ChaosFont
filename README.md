@@ -30,7 +30,7 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
 ## 下载与使用
 
 1. **下载**  
-   - 在 [Releases](https://github.com/YourUserName/ChaosFont/releases) 获取 `.ttf / .otf ` 文件；  
+   - 在 [Releases](https://github.com/YourUserName/ChaosFont/docs) 获取 `.ttf / .otf ` 文件；  
    - 或前往项目的 `builds/` 文件夹查阅对应阶段的字体包。
 
 2. **安装**  
