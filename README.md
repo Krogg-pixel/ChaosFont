@@ -1,7 +1,8 @@
-# ChaosFont
+# ChaosFont（混沌字体）
 A Machine Learning–Driven Design Practice for Generating Chinese Characters from Chaos to Order  
+机器学习从无序到有序的汉字生成设计实践
+![ChaosFont 示例图](https://raw.githubusercontent.com/Krogg-pixel/ChaosFont/docs/ChaosFont_sample_01.jpg)
 
----
 
 ## 项目概述
 
@@ -10,7 +11,6 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
 
 结合道家哲学“无中生有”、“无为而治”等概念，ChaosFont 试图跳脱出对 AI 仅关注“完美度”的思维惯性，把聚光灯打在从无序到有序的内部过程上，借此对技术与人文进行交融与反思。
 
----
 
 ## 主要特点
 
@@ -23,24 +23,14 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
 4. **多场景应用**  
    - 每个阶段的字形都有独特风格，适合海报、视觉艺术、动态排版等场合，用混沌之美激发全新创意。
 
----
+![ChaosFont 示例图](https://raw.githubusercontent.com/Krogg-pixel/ChaosFont/docs/ChaosFont_sample_02.jpg)
 
-## 如何插入图片
 
-如果需要在此 README 中插入示例或预览图，推荐使用如下 Markdown 语法：
-
-\`\`\`md
-![ChaosFont 示例](./docs/ChaosFont_sample_01.jpg)
-\`\`\`
-
-将 `./docs/chaos-sample.jpg` 替换为你仓库内实际的图片路径，并根据需要添加文字说明。
-
----
 
 ## 下载与使用
 
 1. **下载**  
-   - 在 [Releases](https://github.com/YourUserName/ChaosFont/releases) 获取 `.ttf / .otf / .woff` 文件；  
+   - 在 [Releases](https://github.com/YourUserName/ChaosFont/releases) 获取 `.ttf / .otf ` 文件；  
    - 或前往项目的 `builds/` 文件夹查阅对应阶段的字体包。
 
 2. **安装**  
@@ -48,27 +38,11 @@ ChaosFont（混沌字体）是一套在深度学习框架下诞生的实验型�
    - **macOS**：双击字体文件 → “安装字体”。  
    - **其他系统**：请参考对应系统的字体安装指南。
 
-3. **网页调用**  
-   使用 CSS `@font-face` 规则引入字体，举例：
-   \`\`\`css
-   @font-face {
-     font-family: 'ChaosFontStage1';
-     src: url('./fonts/ChaosFontStage1.woff') format('woff');
-     font-weight: normal;
-     font-style: normal;
-   }
-
-   body {
-     font-family: 'ChaosFontStage1', sans-serif;
-   }
-   \`\`\`
-
-4. **创意玩法**  
+3. **创意玩法**  
    - 将 9 个阶段的字体混排组合，创造出“渐入佳境”的视觉叙事；  
    - 利用早期阶段的“极度混沌”字形，强化海报或装置艺术的冲击力；  
    - 在后期阶段字体中感受逐渐成型的稳定美感，应用于日常或正式场景。
 
----
 
 ## 项目背后理念
 
@@ -78,14 +52,12 @@ ChaosFont 通过道家哲学与生成对抗网络（GAN）的碰撞，突出以�
 - **“无为而治”与自适应学习**：在训练中，模型通过自我调节不断趋近最优，呼应“顺应自然，无为而治”的哲学精神。  
 - **技术与人文融合**：不再只关心模型最终输出，而是关注其混沌迭代过程中所展现的人文与实验属性，开启对 AI 的新审视。  
 
----
 
 ## 许可证与贡献
 
 - **License**：本项目采用 [SIL Open Font License (OFL)](https://scripts.sil.org/OFL) 协议开源，请查阅 [LICENSE](./LICENSE) 获取完整条款。  
 - **欢迎贡献**：如果你对 ChaosFont 的创意、技术实现或视觉有进一步想法，欢迎通过 [Issues](https://github.com/YourUserName/ChaosFont/issues) 或 Pull Requests 参与讨论与贡献。
 
----
 
 ## 联系与支持
 
